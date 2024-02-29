@@ -1,40 +1,21 @@
-### Hi there 👋
-
-<!--
-**thekarimovmurad/thekarimovmurad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am Murad Karimov is a C# and .NET developer with a passion for coding. Skilled in C#, .NET, and front-end development, able to design and develop high-quality
+# 💫 About Me:
+😀About me:<br>Greetings! I'm Murad Karimov, a dedicated C# and .NET developer with a deep passion for coding. With a strong foundation in C#, .NET and front-end development, I thrive on designing and building high-quality solutions that meet both user needs and technical standards.<br>🚀My Expertise:<br>Proficient in C# and .NET development.<br>Skilled in front-end development.<br>Enthusiastic about designing and developing robust solutions.<br>💡Areas of Interest:<br>Beyond my expertise in C# and .NET, I am also interested in embedded systems, artificial intelligence, and C/C++ programming. Exploring these areas allows me to expand my skills and overcome various challenges.
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@thekarimovmurad-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MaksymRudnyi)](https://twitter.com/thekarimovmurad) 
-[![Linkedin Badge](https://img.shields.io/badge/-Karimov_Murad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/murad-karimov-686a73233/) 
-[![Mail Badge](https://img.shields.io/badge/-@thekarimovmurad-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/thekarimovmurad/) 
-[![Mail Badge](https://img.shields.io/badge/-thekarimovmurad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thekarimovmurad@gmail.com)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thekarimovmurad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thekarimovmurad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/murad-karimov-686a73233) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thekarimovmurad) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/thekarimovmurad) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30281862) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thekarimovmurad) 
 
-<br/>
-#### Top Technologies
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thekarimovmurad&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thekarimovmurad&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thekarimovmurad&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-[![React Badge](https://img.shields.io/badge/-dotnet-61DBFB?style=for-the-badge&labelColor=black&logo=dotnet&logoColor=61DBFB)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<br/>
+---
+[![](https://visitcount.itsvg.in/api?id=thekarimovmurad&icon=2&color=11)](https://visitcount.itsvg.in)
 
-### My stats ⭐
-
-<div align="center">
-<img alt="Murad's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thekarimovmurad&show_icons=true&theme=transparent"/>
-<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekarimovmurad&layout=compact&&langs_count=8"/>
-</div>
-
-### Profile views counter 👁️‍🗨️
-[![Murad Karimov profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/thekarimovmurad)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thekarimovmurad&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=thekarimovmurad&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thekarimovmurad&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thekarimovmurad&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 [![](https://visitcount.itsvg.in/api?id=thekarimovmurad&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 ### 😂 Random Dev Meme

@@ -12,7 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=thekarimovmurad&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=thekarimovmurad&hide_progress=true&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&langs_count=8)](https://github.com/thekarimovmurad/github-readme-stats)<br/>
 [![](https://visitcount.itsvg.in/api?id=thekarimovmurad&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
-
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

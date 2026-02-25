@@ -69,9 +69,9 @@ I care about clean architecture, meaningful abstractions, and code that doesn't 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=thekarimovmurad&theme=vision-friendly-dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=thekarimovmurad&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=thekarimovmurad&hide_progress=true&theme=vision-friendly-dark&hide_border=false&count_private=true&langs_count=8)](https://github.com/thekarimovmurad/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thekarimovmurad&theme=vision-friendly-dark&hide_border=true&border_radius=13.8&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<!---![](https://github-readme-stats-eight-theta.vercel.app/api?username=thekarimovmurad&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
+[![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thekarimovmurad&layout=donut-vertical&hide_progress=true&theme=vision-friendly-dark&hide_border=false&count_private=true&langs_count=5)](https://github.com/thekarimovmurad/github-readme-stats) --->
 
 ---
 
